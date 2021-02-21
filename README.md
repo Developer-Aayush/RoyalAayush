@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
 <h3 align="center">Hi there, I am Aayush. I am beginner full stack web developer currently studying Bsc.Hons Computing @IslingtonCollege Kamalpokhari Kathmandu.</h3>
 
-- 🔭 I’m currently working on [Final Year Project - Shuffle Music | Under Construction](https://shufflemusic.herokuapp.com/)
+- 🔭 I’m currently working on: [Final Year Project - Shuffle Music | Under Construction](https://shufflemusic.herokuapp.com/)
 
-- 🌱 I’m currently learning **Django, Djano-Rest-Framework, Graphical UI/UX desing**
+- 🌱 I’m currently learning: **Django, Djano-Rest-Framework, Graphical UI/UX desing**
 
-- 👯 I’m looking to collaborate on **Frontend graphical UI/UX design , Python Django**
+- 👯 I’m looking to collaborate on: **Frontend graphical UI/UX design , Python Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RoyalAayush?tab=repositories](https://github.com/RoyalAayush?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/RoyalAayush?tab=repositories](https://github.com/RoyalAayush?tab=repositories)
 
-- 💬 Ask me about **Web developement, django and UI/UX design**
+- 💬 Ask me about: **Web developement, django and UI/UX design**
 
-- 📫 How to reach me **aayush.pandey30@gmail.com**
+- 📫 How to reach me: **aayush.pandey30@gmail.com**
 
-- 📄 Know about my experiences Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team
+- 📄 Know about my experiences: Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team
 
-- ⚡ Fun fact **I love making music (mostly Electronic Dance Music) and Fourmula 1 games as well as the real race**
+- ⚡ Fun fact: **I love making music (mostly Electronic Dance Music) and Fourmula 1 games as well as the real race**
 
 
 <h3 align="left">Languages and Tools:</h3>
