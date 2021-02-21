@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aayush.pandey30@gmail.com**
 
-- 📄 Know about my experiences [Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team](Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team)
+- 📄 Know about my experiences Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team
 
 - ⚡ Fun fact **I love making music (mostly Electronic Dance Music) and Fourmula 1 games as well as the real race**
 
