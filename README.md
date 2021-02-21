@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aayush Pandey</h1>
-<h3 align="center">Hi there, I am Aayush. I am beginner full stack web developer currently studying Bsc.Hons Computing @IslingtonCollege Kamalpokhari Kathmandu.</h3>
+<h1 align="center">Hi 👋, I'm Aayush</h1>
+<h3 align="center">I am beginner full stack web developer currently studying Bsc.Hons Computing @IslingtonCollege Kamalpokhari Kathmandu.</h3>
 
 - 🔭 I’m currently working on: [Final Year Project - Shuffle Music | Under Construction](https://shufflemusic.herokuapp.com/)
 
