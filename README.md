@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">I am beginner full stack web developer currently studying Bsc.Hons Computing @IslingtonCollege Kamalpokhari Kathmandu.</h3>
+<h3 align="center">I am undergrad, trying my best to be a full stack web developer and better graphical UI/UX designer.</h3>
 
 - 🔭 I’m currently working on: [Final Year Project - Shuffle Music | Under Construction](https://shufflemusic.herokuapp.com/)
 
 - 🌱 I’m currently learning: **Django, Djano-Rest-Framework, Graphical UI/UX desing**
 
-- 👯 I’m looking to collaborate on: **Frontend graphical UI/UX design , Python Django**
+- 👯 I’m looking to collaborate on: **Graphical UI/UX design , Python Django projects**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/RoyalAayush?tab=repositories](https://github.com/RoyalAayush?tab=repositories)
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team
 
-- ⚡ Fun fact: **I love making music (mostly Electronic Dance Music) and Fourmula 1 games as well as the real race**
+- ⚡ Fun fact: **I love making music (mostly Electronic Dance Music) and I love watching and playing F1**
 
 
 <h3 align="left">Languages and Tools:</h3>
