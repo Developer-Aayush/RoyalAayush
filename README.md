@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
 <h3 align="center">I am undergrad, trying my best to be a full stack web developer and better graphical UI/UX designer.</h3>
 
-- 🔭 I’m currently working on: [Final Year Project - Shuffle Music | Under Construction](https://shufflemusic.herokuapp.com/)
+- 🔭 I’m currently working on small project with my friend 
 
 - 🌱 I’m currently learning: **Django, Djano-Rest-Framework, Graphical UI/UX desing**
 
