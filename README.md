@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aayush</h1>
-<h3 align="center">I am undergrad, trying my best to be a full stack web developer and better graphical UI/UX designer.</h3>
+<h3 align="center">I love developing web backends and creating clean minimalist UI designs. </h3>
 
-- 🔭 I’m currently working on small project with my friend 
+- 🔭 I’m currently working as Academic Tutor & Full-Stack Developer at Islington College 
 
-- 🌱 I’m currently learning: **Django, Djano-Rest-Framework, Graphical UI/UX desing**
+- 🌱 I’m currently learning: **Django, Djano-Rest-Framework, Graphical UI/UX desing & Fluttre**
 
 - 👯 I’m looking to collaborate on: **Graphical UI/UX design , Python Django projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **aayush.pandey30@gmail.com**
 
-- 📄 Know about my experiences: Been a college counseller, currently working as backend web developer in my college Teaching Assistant Team
+- 📄 Know about my experiences: Been a college counseller, Been a Teaching Assistant, Have done projects in Django anf Django Rest Framework
 
 - ⚡ Fun fact: **I love making music (mostly Electronic Dance Music) and I love watching and playing F1**
 
